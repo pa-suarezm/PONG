@@ -1,0 +1,1 @@
+y = clamp(y, 25, room_height-25);
